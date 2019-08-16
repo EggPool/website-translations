@@ -20,7 +20,7 @@
         "Minimum Withdraw": "Dépôt minimum",
         "Withdraw": "Retirer",
         "Withdrawal": "Retrait",
-        "No data to display": "Pas de données à affiche",
+        "No data to display": "Pas de données à afficher",
         "Digital Asset Exchange": "Echange de biens numériques",
         // "original dev coins" means projects/teams that have done some development themselves.
         // We have a preference for coins that aren't complete clones.
@@ -38,7 +38,7 @@
         "Price": "Prix",
         "Total": "Total",
         "Amount": "Quantité",
-        "loginPrompt": "<0>Se connecter</0> ou <2>creéer un compte</2>",
+        "loginPrompt": "<0>Se connecter</0> ou <2>créer un compte</2>",
         "Balance": "Balance",
         "Balances": "Balances",
         "Bid": "Bid",
@@ -73,7 +73,7 @@
         // Describes the menu dropdown button on the balances page. Used for screen readers/tooltips
         "Toggle Dropdown": "Basculer le menu",
         "Deposit": "Déposer",
-        "copied to clipboard!": "copié dans le presse-papier !",
+        "copied to clipboard!": "Copié dans le presse-papier !",
         "Download Image": "Télécharger l'image",
         "Data": "Donnée",
         "Resend": "Renvoyer",
@@ -105,46 +105,46 @@
 
 
 "errorCodes": {
-        "invalid_timestamp": "Invalid Timestamp",
-        "expired_signature": "Expired Signature",
-        "invalid_signature": "Invalid Signature",
-        "unknown_user": "Unknown User",
-        "unknown_error": "Unknown Error"
+        "invalid_timestamp": "Timestamp invalide",
+        "expired_signature": "Signature expirée",
+        "invalid_signature": "Signature invalide",
+        "unknown_user": "Utilisateur inconnu",
+        "unknown_error": "Erreur inconnue"
     },
     "404": {
-        "Not Found": "Not Found",
-        "Error 404": "Error 404",
-        "The page you requested was not found on the server": "The page you requested was not found on the server"
+        "Not Found": "Non trouvé",
+        "Error 404": "Erreur 404",
+        "The page you requested was not found on the server": "La page demandée n'a pas été trouvée sur le serveur."
     },
     "429": {
-        "Rate limit exceeded": "Rate limit exceeded",
-        "try again in": "try again in"
+        "Rate limit exceeded": "Limite de requêtes dépassée",
+        "try again in": "Essayez de nouveau dans"
     },
     "503": {
         "Maintenance": "Maintenance",
-        "We are currently down for scheduled maintenance": "We are currently down for scheduled maintenance"
+        "We are currently down for scheduled maintenance": "Nous sommes fermés pour cause de maintenance planifiée."
     },
     "Disconnected": {
-        "Disconnected": "Disconnected",
-        "You seem to be disconnected": "You seem to be disconnected"
+        "Disconnected": "Déconnecté",
+        "You seem to be disconnected": "Vous semblez être déconnecté"
     },
     "EmailConfirm": {
-        "Confirm your email address": "Confirm your email address",
-        "Email Verified": "Email Verified",
-        "startVerification": "Start <1>Level 1</1> verification"
+        "Confirm your email address": "Conformez votre adresse Email",
+        "Email Verified": "Email Verifié",
+        "startVerification": "Démarrer la vérification <1>Niveau 1</1>"
     },
     "Signup": {
-        "Sign Up" : "Sign Up",
-        "Password": "Password",
-        "Pass Confirm": "Pass Confirm",
-        "ToSAgree": "I agree to the <1>Terms of Service</1> and <3>Privacy Policy</3>"
+        "Sign Up" : "Inscription",
+        "Password": "Mot de passe",
+        "Pass Confirm": "Confirmation du passe",
+        "ToSAgree": "J'accepte les <1>Termes de Service</1> et la <3>Politique de vie privée</3>"
     },
     "ReferralProgram": {
-        "Referral Program": "Referral Program",
-        "The qTrade referral program allows you to receive 10% percent of trade commissions paid by your referrals.": "The qTrade referral program allows you to receive 10% percent of trade commissions paid by your referrals.",
-        "How it works": "How it works",
-        "More details": "More details",
-        "Important Notice": "Important Notice"
+        "Referral Program": "Program d'affiliation",
+        "The qTrade referral program allows you to receive 10% percent of trade commissions paid by your referrals.": "Le programme d'affiliation qTrade vous permet de toucher 10% des comisisons de trading de vos filleuls.",
+        "How it works": "Comment ça marche",
+        "More details": "Plus de détails",
+        "Important Notice": "Notice importante"
     },
     "ReferralProgram.howItWorks": {
         "howItWorks1":"Start by visiting the <1>referrals</1> page. From this page you can copy your referral link and send it to your friends.",
